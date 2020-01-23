@@ -1,2 +1,3 @@
 # Calculator
-Just a little fun...
+
+A Calculator for JavaScript enthusiasts who want a tempelate and study the uses of JavaScript or want to use it for having fun. Anyway you like it. I don't judge. :-D
