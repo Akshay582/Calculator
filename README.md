@@ -5,3 +5,5 @@ A Calculator for JavaScript enthusiasts who want a template and study the uses o
 Anyway you like to work on this repo. 
 
 I don't judge. :-D
+
+[https://calculator-27a4d.firebaseapp.com/](To look at the CURRENT VERSION of project, click me!)
