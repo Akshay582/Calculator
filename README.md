@@ -6,6 +6,4 @@ A Calculator for JavaScript enthusiasts who want a template and study the uses o
 
 Anyway you like to work on this repo. 
 
-I don't judge. :-D
-
-
+I don't judge. :-)
